@@ -32,3 +32,7 @@ python3 ./selection.py
 # infer.py 
 
 ## 图片分割代码(不是我写的)
+
+# reasoning.py 
+
+## 模型推理
