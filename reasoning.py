@@ -33,9 +33,6 @@ setup_gpu(gpu)
 
 # ## Load RetinaNet model
 
-# In[ ]:
-
-
 # adjust this to point to your downloaded/trained model
 # models can be downloaded here: https://github.com/fizyr/keras-retinanet/releases
 model_path = os.path.join('..', 'snapshots', 'resnet50_coco_best_v2.1.0.h5')
